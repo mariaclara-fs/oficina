@@ -1,0 +1,14 @@
+# Perfil {#sec-perfil}
+
+O perfil reúne as informações que os seus contatos veem sobre você: foto, nome e recado.
+
+## Abrir o perfil
+
+1. Clique na sua foto, no canto de baixo da barra lateral (ícone **Você**). Abre a tela de configurações (@fig-configuracoes, no @sec-configuracoes).
+
+2. Clique em **Perfil**. Aparece a tela **Editar perfil** (@fig-perfil).
+
+No celular, o caminho é três pontinhos > **Configurações** e depois toque na sua foto (Android) ou **Configurações** > sua foto (iPhone).
+
+![ Figura 3.1: Tela Editar perfil, com foto, recado, nome, nome de usuário e telefone borrados. ](../images/perfil.jpg){#fig-perfil}
+

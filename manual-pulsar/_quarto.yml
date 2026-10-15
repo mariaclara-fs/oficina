@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Manual do WhatsApp"
+  author: "Maria Clara"
+  date: "15/10/2026"
+  chapters:
+    - index.qmd
+    - references.qmd
+    - basico/perfil.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
